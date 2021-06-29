@@ -1,2 +1,3 @@
-# simclr_pytorch
-Implementation of SimCLR in PyTorch
+# Implementation of SimCLR in PyTorch
+
+The whole code has been implemented in Jupyter Notebook.
