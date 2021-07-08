@@ -13,4 +13,4 @@ parameters = [{'params':params,'param_names':param_names}]
 optimizer = LARS(parameters,
                  lr = self.lr,
                  weight_decay = self.weight_decay,
-                 exclude_from_weight_decay=["batch_normalization", "bias"])```
+                 exclude_from_weight_decay=["batch_normalization", "bias"])
